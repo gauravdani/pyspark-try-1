@@ -92,3 +92,7 @@ Activate the virtual environment and run your PySpark scripts.
 - **Run PySpark Script**:
   ```bash
   python pyspark_test.py
+
+- **Reference**:
+    - PySpark for Data Engineering Beginners: An Extensive Guide - https://pawankg.medium.com/pyspark-for-data-engineering-beginners-an-extensive-guide-ce29520a78ca
+    - Case Studies - https://github.com/sauryaritesh/Real-Time-Case-Study-Based-Scenarios-using-PySpark
