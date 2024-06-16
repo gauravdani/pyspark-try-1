@@ -1,1 +1,4 @@
-pyspark
+pandas==2.0.3
+pyspark==3.4.1
+PyArrow == 4.0.0
+jupyter
