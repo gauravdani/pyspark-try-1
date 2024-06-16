@@ -75,6 +75,8 @@ This project demonstrates setting up a PySpark environment in Visual Studio Code
 10. **Run the Script**:
     - Run the script using the Python extension in VS Code.
 
+11. Datset used in this file can be downloaded from https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop 
+
 ## Usage
 
 Activate the virtual environment and run your PySpark scripts.
